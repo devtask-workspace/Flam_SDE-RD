@@ -213,8 +213,6 @@ Software_RD/
 ├── requirements.txt      # Python dependencies
 ├── xy_data (3).csv       # Dataset of 1,500 (x, y) coordinates
 ├── curve_fit.png         # High-resolution output graph and residual analysis
-├── Job Description.pdf   # Provided job description
-├── R&D assignment pdf.pdf# Provided assignment guidelines & evaluation rubric
 └── README.md             # Technical documentation and mathematical report
 ```
 
