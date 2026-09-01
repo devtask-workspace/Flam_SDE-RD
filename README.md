@@ -1,6 +1,6 @@
-# Parametric Curve Recovery — Technical Assignment
+# Parametric Curve Recovery - Technical Assignment
 
-**Role:** Software Development Engineer Intern (Research & Development / AI) — Flam  
+**Role:** Software Development Engineer Intern (Research & Development / AI) - Flam  
 **Candidate:** Srilekha  
 **Submission Repository:** [https://github.com/devtask-workspace/Flam_SDE-RD)  
 **GitHub Profile:** [https://github.com/Sriilekhaa](https://github.com/Sriilekhaa)  
@@ -44,7 +44,7 @@ given $N = 1,500$ observed data points $(x_i, y_i)$ sampled across the parameter
 ## Interactive Desmos Verification
 
 The verified curve is plotted and shared at:  
-👉 **[https://www.desmos.com/calculator/u5c8a8hceg](https://www.desmos.com/calculator/u5c8a8hceg)**
+**[https://www.desmos.com/calculator/u5c8a8hceg](https://www.desmos.com/calculator/u5c8a8hceg)**
 
 ### Desmos Parametric Equation:
 ```latex
