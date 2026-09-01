@@ -2,7 +2,7 @@
 
 **Role:** Software Development Engineer Intern (Research & Development / AI) — Flam  
 **Candidate:** Srilekha  
-**Submission Repository:** [https://github.com/Sriilekhaa/Software_RD](https://github.com/Sriilekhaa/Software_RD)  
+**Submission Repository:** [https://github.com/devtask-workspace/Flam_SDE-RD)  
 **GitHub Profile:** [https://github.com/Sriilekhaa](https://github.com/Sriilekhaa)  
 **Interactive Desmos Graph:** [https://www.desmos.com/calculator/u5c8a8hceg](https://www.desmos.com/calculator/u5c8a8hceg)  
 
